@@ -183,3 +183,4 @@ Never commit your `.env` file. It is listed in `.gitignore`.
 ## License
 
 MIT
+© 2026 Abigail Da Costa. All rights reserved.
